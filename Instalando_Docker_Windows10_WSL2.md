@@ -1,6 +1,6 @@
 # Instalando o Docker no Windows 10 Home ou Professional com WSL 2
 
-![poster](.github/thumbnails/docker-wsl2.pngg)
+![poster](./.github/thumbnails/docker-wsl2.png)
 
 O Docker é uma plataforma popular para a criação, implantação e execução de aplicativos em contêineres. Se você está usando o Windows 10 Home, pode instalar o Docker com o Windows Subsystem for Linux (WSL) 2. Neste tutorial, vamos guiá-lo pelo processo de instalação passo a passo.
 
